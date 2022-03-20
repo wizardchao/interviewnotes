@@ -1,7 +1,6 @@
 * [前言](README.md)
 * [Mysql](Mysql/README.md)
      * [基本架构](Mysql/3.md)
-     * [执行机制](Mysql/1.md)
      * [索引原理](Mysql/2.md)
 * [Redis](Redis/README.md)
     * [特性](Redis/1.md)
